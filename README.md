@@ -1,5 +1,5 @@
 # AI-Image-Detector
-STAD68: Advanced Machine Learning/Deep Learning Final Project
+STAD68: Advanced Machine Learning & Deep Learning Final Project
 
 ## 🚀 Project Overview
 This project is part of the STAD68 course at the University of Toronto, focusing on **AI-generated image detection**. Our goal is to develop a **deep learning ensemble model** that accurately classifies images as either AI-generated or human-created.
